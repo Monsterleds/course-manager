@@ -1,0 +1,9 @@
+img {
+  height: 24px;
+  width: auto;
+}
+
+.course_rating {
+  display: flex;
+  align-items: center;
+}
